@@ -1,0 +1,9 @@
+# Core dependencies
+igraph==0.7.1.post6  # For graph processing in Python 2.7
+scikit-learn==0.20.4
+numpy==1.16.6
+pickle-mixin==1.0.2
+future==0.18.3
+
+# Utility modules
+statistics==1.0.3.5  # Backport of Python 3 statistics module
