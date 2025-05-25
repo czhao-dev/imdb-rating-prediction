@@ -84,8 +84,9 @@ The project processes and analyzes five IMDb data files:
 ## How to Run
 
 Install Python dependencies:
-```bash```
 pip2 install -r requirements.txt
+In bash:
+run run_all.sh
 
 ## Dependencies
 
