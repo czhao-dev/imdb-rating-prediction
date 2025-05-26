@@ -1,4 +1,3 @@
-#EE232E Project 2 Question 7
 library(igraph)
 
 fileName = "/Users/seansea/npm-global/demo-app/npm-demo-pkg/ee232e/Project 2/movie_id_rating.txt"
