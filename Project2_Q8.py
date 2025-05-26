@@ -1,8 +1,3 @@
-# EE 232E Project 2 IMDb Exploration
-# Yexuan Chen   UID: 604-734-603
-# Xuerui Yan    UID: 704-775-730
-# Charles Zhao  UID: 504-138-548
-
 ################################################# QUESTION 8 ###########################################################
 # Note: 1. Make sure to have the following files in the current directory before running the code:
 #           (1) sorted_pagerank_scores.pcy
