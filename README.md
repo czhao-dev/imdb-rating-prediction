@@ -103,6 +103,6 @@ run run_all.sh
 - Genre tagging and network construction were memory-intensive and optimized using hashing and lookup tables.
 - The study highlights the tradeoffs between algorithmic influence scoring and actual popularity or fame.
 
-## © License
+## License
 
 This project is provided for educational and analytical purposes. No commercial use of IMDb data is intended.
