@@ -1,4 +1,4 @@
-# IMDb Graph Analysis and Movie Rating Prediction
+# IMDb Graph Analysis and Movie Rating Prediction with Machine Learning
 
 This project explores the IMDb movie database using graph theory and machine learning techniques. We analyze connections between actors, movies, and genres to derive insights and predict movie ratings.
 
