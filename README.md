@@ -105,4 +105,4 @@ run run_all.sh
 
 ## License
 
-This project is provided for educational and analytical purposes. No commercial use of IMDb data is intended.
+This project is released for academic and research purposes. Please credit the source if used in publications or derivative works. No commercial use of IMDb data is intended. 
